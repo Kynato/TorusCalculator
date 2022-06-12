@@ -1,0 +1,15 @@
+/Users/alan/Projects/TorusCalc/TorusCalc/bin/Debug/net6.0/TorusCalc
+/Users/alan/Projects/TorusCalc/TorusCalc/bin/Debug/net6.0/TorusCalc.deps.json
+/Users/alan/Projects/TorusCalc/TorusCalc/bin/Debug/net6.0/TorusCalc.runtimeconfig.json
+/Users/alan/Projects/TorusCalc/TorusCalc/bin/Debug/net6.0/TorusCalc.dll
+/Users/alan/Projects/TorusCalc/TorusCalc/bin/Debug/net6.0/TorusCalc.pdb
+/Users/alan/Projects/TorusCalc/TorusCalc/obj/Debug/net6.0/TorusCalc.csproj.AssemblyReference.cache
+/Users/alan/Projects/TorusCalc/TorusCalc/obj/Debug/net6.0/TorusCalc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alan/Projects/TorusCalc/TorusCalc/obj/Debug/net6.0/TorusCalc.AssemblyInfoInputs.cache
+/Users/alan/Projects/TorusCalc/TorusCalc/obj/Debug/net6.0/TorusCalc.AssemblyInfo.cs
+/Users/alan/Projects/TorusCalc/TorusCalc/obj/Debug/net6.0/TorusCalc.csproj.CoreCompileInputs.cache
+/Users/alan/Projects/TorusCalc/TorusCalc/obj/Debug/net6.0/TorusCalc.dll
+/Users/alan/Projects/TorusCalc/TorusCalc/obj/Debug/net6.0/refint/TorusCalc.dll
+/Users/alan/Projects/TorusCalc/TorusCalc/obj/Debug/net6.0/TorusCalc.pdb
+/Users/alan/Projects/TorusCalc/TorusCalc/obj/Debug/net6.0/TorusCalc.genruntimeconfig.cache
+/Users/alan/Projects/TorusCalc/TorusCalc/obj/Debug/net6.0/ref/TorusCalc.dll
