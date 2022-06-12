@@ -1,0 +1,2 @@
+# TorusCalculator
+Project for university.
